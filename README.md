@@ -12,3 +12,4 @@
 ## https://www.fotor.com/fr/
 ## https://www.online-image-editor.com/
 ## https://pixlr.com/fr/x/
+## https://max.adobe.com/
